@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "Sample Projects",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null, "WBS_ID": "13.01.001.001", "Name": "Sample 1" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -104.972168508287268, 39.711101519337063 ], [ -104.971029005524841, 39.711105835635408 ], [ -104.971024689226496, 39.712931629834301 ], [ -104.967485324585624, 39.712922997237619 ], [ -104.967476691988935, 39.711101519337063 ], [ -104.966911256906059, 39.711110151933752 ] ] ] } },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-104.967479,39.710241]
+    },
+    "properties": { "id": null, "WBS_ID": "13.01.001.002", "Name": "Sample 2" }
+  }
+]
+}
