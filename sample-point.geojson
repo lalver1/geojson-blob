@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "Sample Projects",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-104.967479,39.710241]
+    },
+    "properties": { "id": null, "WBS_ID": "13.01.001.002", "Name": "Sample 2" }
+  }
+]
+}
